@@ -1,6 +1,6 @@
 {
   "name": "task-1",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://Anurag2293.github.io/zentrades-task1/",
